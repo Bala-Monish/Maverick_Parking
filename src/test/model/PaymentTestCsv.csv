@@ -1,0 +1,29 @@
+1,newuser@gmail.com,Access,Premium,2.95,15.95,1.95,$22.57,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+2,newuser@gmail.com,Access,Premium,2.95,15.95,,$20.46,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+3,newuser@gmail.com,Access,Premium,2.95,,1.95,$5.3,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+4,newuser@gmail.com,Access,Premium,,15.95,1.95,$19.38,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+5,newuser@gmail.com,Access,Premium,2.95,,,$3.19,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+6,newuser@gmail.com,Access,Premium,,15.95,,$17.27,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+7,newuser@gmail.com,Access,Premium,,,1.95,$2.11,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+8,newuser@gmail.com,Access,Premium,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+9,newuser@gmail.com,Premium,Midrange,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+10,newuser@gmail.com,Midrange,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,11:30:00
+11,newuser@gmail.com,Access,Access,,,,$0.0,,,,true,11:30:00
+12,newuser@gmail.com,Basic,Basic,,,,$0.0,,,,true,11:30:00
+13,newuser@gmail.com,Premium,Premium,,,,$0.0,,,,true,11:30:00
+14,newuser@gmail.com,Midrange,Midrange,,,,$0.0,,,,true,11:30:00
+15,newuser@gmail.com,Basic,Basic,,,,$0.0,,,,true,11:30:00
+16,newuser@gmail.com,Basic,,,,,$0.0,Please create a user profile before reserving a spot!,,,true,11:30:00
+17,newuser@gmail.com,Basic,Basic,,,,$0.0,,There is already a reservation in this time window.please choose a different time,,true,10:30:00
+18,newuser@gmail.com,Basic,,,,,$0.0,Please create a user profile before reserving a spot!,There is already a reservation in this time window.please choose a different time,,true,10:30:00
+19,newuser@gmail.com,Basic,,,,,$0.0,Please create a user profile before reserving a spot!,There is already a reservation in this time window.please choose a different time,,true,10:31:00
+20,newuser@gmail.com,Access,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,There is already a reservation in this time window.please choose a different time,,true,10:31:00
+21,newuser@gmail.com,Access,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,There is already a reservation in this time window.please choose a different time,,true,10:45:00
+22,newuser@gmail.com,Access,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,10:46:00
+23,newuser@gmail.com,Access,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,10:15:00
+24,newuser2@gmail.com,Access,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,Cannot Make Reservation!The account status is revoked!!,true,11:00:00
+25,newuser@gmail.com,Access,Basic,,,,$0.0,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,19:59:00
+26,newuser@gmail.com,Access,Basic,,32.00,,$34.64,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,false,20:00:00
+27,newuser@gmail.com,Access,Basic,,32.00,,$34.64,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,false,05:59:00
+28,newuser@gmail.com,Access,Basic,,32.00,,$34.64,Cannot Reserve this spot with the Current permit type.Please upgrade your parking pass,,,true,06:00:00
+29,newuser@gmail.com,Access,Access,,,,$0.0,,,,true,06:00:00

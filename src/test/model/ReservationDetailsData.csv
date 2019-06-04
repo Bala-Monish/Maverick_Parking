@@ -1,0 +1,8 @@
+1,2,12:00:00,190,The reservationID is not present,Please enter a valid start time,Please enter a valid duration
+2,1,12:45:00,60,,,
+3,2,12:00:00,0,The reservationID is not present,Please enter a valid start time,Please enter a valid duration
+4,2,12:00:00,15,The reservationID is not present,Please enter a valid start time,Please enter a valid duration
+5,2,12:00:00,14,The reservationID is not present,Please enter a valid start time,Please enter a valid duration
+6,2,12:00:00,180,The reservationID is not present,Please enter a valid start time,Please enter a valid duration
+7,1,12:30:00,60,,Please enter a valid start time,
+8,1,12:45:00,15.1,,,

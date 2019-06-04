@@ -1,0 +1,22 @@
+1,,1111222233334440,1234567890,1001529871,ABC1234,Please correct the following errors,Password Field cannot be Empty,,,,
+2,Abcde,1111222233334440,1234567890,1001529871,ABC1235,Please correct the following errors,Password length must be at least 6 characters,,,,
+3,fhnsiahsahgoahgsiohgrhoagrhoghoghoaohia,1111222233334440,1234567890,1001529871,ABC1236,Please correct the following errors,Password length cannot exceed 12 characters,,,,
+4,abcdef ghgh,1111222233334440,1234567890,1001529871,ABC1237,Please correct the following errors,password cannot contain blank space character,,,,
+5,abcdfghss,1111222233334440,1234567890,1001529871,ABC1238,Please correct the following errors,Invalid password it must contain at least 1 digit 1 lc 1 uc 1 sc,,,,
+6,Abcdefgh+12,1111222233334440,1234567890,1001529871,ABC1239,,,,,,
+7,Abcdefgh+12,,1234567890,1001529871,ABC1240,Please correct the following errors,,The Credit Card Field cannot be empty,,,
+8,Abcdefgh+12,11112222333,1234567890,1001529871,ABC1241,Please correct the following errors,,The Credit Card must be 16 digits,,,
+9,Abcdefgh+12,abcd123123456789,1234567890,1001529871,ABC1242,Please correct the following errors,,Invalid Credit Card,,,
+10,Abcdefgh+13,1111222233334440,1234567890,1001529871,ABC1243,,,,,,
+11,Abcdefgh+14,1111222233334440,,1001529871,ABC1244,Please correct the following errors,,,The Phone number Field cannot be empty,,
+12,Abcdefgh+15,1111222233334440,12345,1001529871,ABC1245,Please correct the following errors,,,The Phone number must be 10 digits,,
+13,Abcdefgh+16,1111222233334440,abcd123412,1001529871,ABC1246,Please correct the following errors,,,Invalid Phone number,,
+14,Abcdefgh+17,1111222233334440,1234567890,1001529871,ABC1247,,,,,,
+15,Abcdefgh+18,1111222233334440,1234567890,,ABC1248,Please correct the following errors,,,,The UTA ID number cannot be empty,
+16,Abcdefgh+19,1111222233334440,1234567890,10012,ABC1249,Please correct the following errors,,,,The UTA ID must be 10 digits,
+17,Abcdefgh+20,1111222233334440,1234567890,1222absqwe,ABC1250,Please correct the following errors,,,,Invalid UTA ID,
+18,Abcdefgh+21,1111222233334440,1234567890,1001529871,ABC1251,,,,,,
+19,Abcdefgh+22,1111222233334440,1234567890,1001529871,,Please correct the following errors,,,,,The Car License number cannot be empty
+20,Abcdefgh+23,1111222233334440,1234567890,1001529871,ABC12345666,Please correct the following errors,,,,,Invalid Car License Number
+21,Abcdefgh+24,1111222233334440,1234567890,1001529871,123456667,Please correct the following errors,,,,,Invalid Car License Number
+22,Abcdefgh+25,1111222233334440,1234567890,1001529871,ABC1248,,,,,,								

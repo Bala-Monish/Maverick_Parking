@@ -1,0 +1,4 @@
+1,,,,,The Credit Card Field cannot be empty,The Phone number Field cannot be empty,The UTA ID number cannot be empty,The Car License number cannot be empty,Please correct the following errors
+2,123,123,123,123,The Credit Card must be 16 digits,The Phone number must be 10 digits,The UTA ID must be 10 digits,The Car License number must be 7 digits,Please correct the following errors
+3,ABC1234567891234,abc1234567,QWERTY4561,ABCDEFQ,Invalid Credit Card,Invalid Phone number,Invalid UTA ID,Invalid Car License Number,Please correct the following errors
+4,1234567891123456,6824149294,1001550757,ABC1234,,,,,

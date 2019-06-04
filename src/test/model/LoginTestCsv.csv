@@ -1,0 +1,5 @@
+1,newuser@gmail.com,Qwerty@1234,
+2,,,The User Name or password field cannot be empty
+3,newuser@gmail.com,,The User Name or password field cannot be empty
+4,,Qwerty@1234,The User Name or password field cannot be empty
+5,newuser,Qwerty,The User Name and (or) Password do not match
